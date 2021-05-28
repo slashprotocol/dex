@@ -281,7 +281,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> VET/ETH
+                    <i className="icon ion-md-star"></i> LINK/ETH
                   </td>
                   <td>0.00000103</td>
                   <td className="green">+1.8%</td>
