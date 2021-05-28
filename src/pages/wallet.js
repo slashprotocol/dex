@@ -355,14 +355,14 @@ export default function wallet() {
                             </Nav.Item>
                             <Nav.Item>
                               <Nav.Link
-                                eventKey="wallet_XMR"
+                                eventKey="wallet_SLASH"
                                 className="d-flex justify-content-between align-items-center"
                               >
                                 <div className="d-flex">
                                   <img src={'img/icon/7.png'} alt="btc" />
                                   <div>
                                     <h2>XMR</h2>
-                                    <p>Monero</p>
+                                    <p>Slash Protocol</p>
                                   </div>
                                 </div>
                                 <div>
@@ -376,14 +376,14 @@ export default function wallet() {
                             </Nav.Item>
                             <Nav.Item>
                               <Nav.Link
-                                eventKey="wallet_KCS"
+                                eventKey="wallet_LINK"
                                 className="d-flex justify-content-between align-items-center"
                               >
                                 <div className="d-flex">
                                   <img src={'img/icon/4.png'} alt="btc" />
                                   <div>
                                     <h2>KCS</h2>
-                                    <p>Kstarcoin</p>
+                                    <p>ChainLink</p>
                                   </div>
                                 </div>
                                 <div>
