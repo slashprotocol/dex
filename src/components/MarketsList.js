@@ -202,10 +202,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> LTC/BTC
+                              <i className="icon ion-md-star"></i> MATIC/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/3.png'} alt="bitcoin" /> LTC
+                              <img src={'img/icon/3.png'} alt="bitcoin" /> MATIC
                             </td>
                             <td>4582.06</td>
                             <td className="green">+2.62%</td>
@@ -215,10 +215,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> KCS/BTC
+                              <i className="icon ion-md-star"></i> LINK/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/4.png'} alt="bitcoin" /> KCS
+                              <img src={'img/icon/4.png'} alt="bitcoin" /> LINK
                             </td>
                             <td>7394.06</td>
                             <td className="red">-0.94%</td>
@@ -228,10 +228,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> COTI/BTC
+                              <i className="icon ion-md-star"></i> MKR/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/5.png'} alt="bitcoin" /> COTI
+                              <img src={'img/icon/5.png'} alt="bitcoin" /> MKR
                             </td>
                             <td>7394.06</td>
                             <td className="green">+0.78%</td>
@@ -241,10 +241,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> TRX/BTC
+                              <i className="icon ion-md-star"></i> WBTC/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/6.png'} alt="bitcoin" /> TRX
+                              <img src={'img/icon/6.png'} alt="bitcoin" /> BTC
                             </td>
                             <td>7394.06</td>
                             <td className="green">+0.71%</td>
@@ -254,10 +254,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> XMR/BTC
+                              <i className="icon ion-md-star"></i> SLASH/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/7.png'} alt="bitcoin" /> XMR
+                              <img src={'img/icon/7.png'} alt="bitcoin" /> SLASH
                             </td>
                             <td>7394.06</td>
                             <td className="red">-0.73%</td>
@@ -371,10 +371,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> MTV/BTC
+                              <i className="icon ion-md-star"></i> UNI/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/16.png'} alt="bitcoin" /> MTV
+                              <img src={'img/icon/16.png'} alt="bitcoin" /> UNI
                             </td>
                             <td>7394.06</td>
                             <td className="green">+1.78%</td>
@@ -443,10 +443,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> LTC/USDT
+                              <i className="icon ion-md-star"></i> MATIC/USDT
                             </td>
                             <td>
-                              <img src={'img/icon/3.png'} alt="bitcoin" /> LTC
+                              <img src={'img/icon/3.png'} alt="bitcoin" /> MATIC
                             </td>
                             <td>4582.06</td>
                             <td className="green">+2.62%</td>
@@ -456,10 +456,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> USDT/USDT
+                              <i className="icon ion-md-star"></i> LINK/USDT
                             </td>
                             <td>
-                              <img src={'img/icon/4.png'} alt="bitcoin" /> USDT
+                              <img src={'img/icon/4.png'} alt="bitcoin" /> LINK
                             </td>
                             <td>7394.06</td>
                             <td className="red">-0.94%</td>
@@ -469,10 +469,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> COTI/USDT
+                              <i className="icon ion-md-star"></i> MKR/USDT
                             </td>
                             <td>
-                              <img src={'img/icon/5.png'} alt="bitcoin" /> COTI
+                              <img src={'img/icon/5.png'} alt="bitcoin" /> MKR
                             </td>
                             <td>7394.06</td>
                             <td className="green">+0.78%</td>
@@ -482,10 +482,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> TRX/USDT
+                              <i className="icon ion-md-star"></i> BTC/USDT
                             </td>
                             <td>
-                              <img src={'img/icon/6.png'} alt="bitcoin" /> TRX
+                              <img src={'img/icon/6.png'} alt="bitcoin" /> BTC
                             </td>
                             <td>7394.06</td>
                             <td className="green">+0.71%</td>
@@ -495,10 +495,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> XMR/USDT
+                              <i className="icon ion-md-star"></i> SLASH/USDT
                             </td>
                             <td>
-                              <img src={'img/icon/7.png'} alt="bitcoin" /> XMR
+                              <img src={'img/icon/7.png'} alt="bitcoin" /> SLASH
                             </td>
                             <td>7394.06</td>
                             <td className="red">-0.73%</td>
@@ -612,10 +612,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> MTV/USDT
+                              <i className="icon ion-md-star"></i> UNI/USDT
                             </td>
                             <td>
-                              <img src={'img/icon/16.png'} alt="bitcoin" /> MTV
+                              <img src={'img/icon/16.png'} alt="bitcoin" /> UNI
                             </td>
                             <td>7394.06</td>
                             <td className="green">+1.78%</td>
@@ -683,10 +683,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> LTC/ALTS
+                              <i className="icon ion-md-star"></i> MATIC/ALTS
                             </td>
                             <td>
-                              <img src={'img/icon/3.png'} alt="bitcoin" /> LTC
+                              <img src={'img/icon/3.png'} alt="bitcoin" /> MATIC
                             </td>
                             <td>4582.06</td>
                             <td className="green">+2.62%</td>
@@ -696,10 +696,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> ALTS/ALTS
+                              <i className="icon ion-md-star"></i> LINK/ALTS
                             </td>
                             <td>
-                              <img src={'img/icon/4.png'} alt="bitcoin" /> ALTS
+                              <img src={'img/icon/4.png'} alt="bitcoin" /> LINK
                             </td>
                             <td>7394.06</td>
                             <td className="red">-0.94%</td>
@@ -709,10 +709,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> COTI/ALTS
+                              <i className="icon ion-md-star"></i> MKR/ALTS
                             </td>
                             <td>
-                              <img src={'img/icon/5.png'} alt="bitcoin" /> COTI
+                              <img src={'img/icon/5.png'} alt="bitcoin" /> MKR
                             </td>
                             <td>7394.06</td>
                             <td className="green">+0.78%</td>
@@ -722,10 +722,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> TRX/ALTS
+                              <i className="icon ion-md-star"></i> BTC/ALTS
                             </td>
                             <td>
-                              <img src={'img/icon/6.png'} alt="bitcoin" /> TRX
+                              <img src={'img/icon/6.png'} alt="bitcoin" /> BTC
                             </td>
                             <td>7394.06</td>
                             <td className="green">+0.71%</td>
@@ -735,10 +735,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> XMR/ALTS
+                              <i className="icon ion-md-star"></i> SLASH/ALTS
                             </td>
                             <td>
-                              <img src={'img/icon/7.png'} alt="bitcoin" /> XMR
+                              <img src={'img/icon/7.png'} alt="bitcoin" /> SLASH
                             </td>
                             <td>7394.06</td>
                             <td className="red">-0.73%</td>
@@ -852,10 +852,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> MTV/ALTS
+                              <i className="icon ion-md-star"></i> UNI/ALTS
                             </td>
                             <td>
-                              <img src={'img/icon/16.png'} alt="bitcoin" /> MTV
+                              <img src={'img/icon/16.png'} alt="bitcoin" /> UNI
                             </td>
                             <td>7394.06</td>
                             <td className="green">+1.78%</td>
