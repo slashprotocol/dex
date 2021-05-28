@@ -93,7 +93,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> LINK/BTC
+                    <i className="icon ion-md-star"></i> MATIC/BTC
                   </td>
                   <td>0.0103</td>
                   <td className="green">+1.8%</td>
@@ -274,7 +274,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> SNX/ETH
+                    <i className="icon ion-md-star"></i> MATIC/ETH
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
@@ -462,7 +462,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> MKR/SLASH
+                    <i className="icon ion-md-star"></i> MATIC/SLASH
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
@@ -671,7 +671,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> BTT/USDT
+                    <i className="icon ion-md-star"></i> MATIC/USDT
                   </td>
                   <td>0.00002303</td>
                   <td className="red">-1.05%</td>
@@ -852,7 +852,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> EOS/DAI
+                    <i className="icon ion-md-star"></i> MATIC/DAI
                   </td>
                   <td>0.00000103</td>
                   <td className="red">-2.05%</td>
