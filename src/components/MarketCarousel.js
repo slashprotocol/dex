@@ -59,9 +59,9 @@ export default function MarketCarousel() {
         <div className="market-carousel-item">
           <div className="market-carousel-item-name">
             <img src={'img/icon/3.png'} alt="" />
-            <strong>Litecoin</strong>
+            <strong>Polygon</strong>
           </div>
-          <h2>624582.06 LTC</h2>
+          <h2>624582.06 MATIC</h2>
           <p>$41,000</p>
           <button className="btn buy">Deposit</button>
           <button className="btn sell">Withdraw</button>
@@ -69,9 +69,9 @@ export default function MarketCarousel() {
         <div className="market-carousel-item">
           <div className="market-carousel-item-name">
             <img src={'img/icon/4.png'} alt="" />
-            <strong>KuCoin Token</strong>
+            <strong>Chainlink</strong>
           </div>
-          <h2>223222.06 KCS</h2>
+          <h2>223222.06 LINK</h2>
           <p>$5,000</p>
           <button className="btn buy">Deposit</button>
           <button className="btn sell">Withdraw</button>
@@ -79,9 +79,9 @@ export default function MarketCarousel() {
         <div className="market-carousel-item">
           <div className="market-carousel-item-name">
             <img src={'img/icon/5.png'} alt="" />
-            <strong>Coti</strong>
+            <strong>Maker Dao</strong>
           </div>
-          <h2>267211.06 COTI</h2>
+          <h2>267211.06 MKR</h2>
           <p>$21,000</p>
           <button className="btn buy">Deposit</button>
           <button className="btn sell">Withdraw</button>
@@ -89,9 +89,9 @@ export default function MarketCarousel() {
         <div className="market-carousel-item">
           <div className="market-carousel-item-name">
             <img src={'img/icon/6.png'} alt="" />
-            <strong>Tron</strong>
+            <strong>Bitcoin</strong>
           </div>
-          <h2>529922.06 TRX</h2>
+          <h2>529922.06 BTC</h2>
           <p>$12,003</p>
           <button className="btn buy">Deposit</button>
           <button className="btn sell">Withdraw</button>
@@ -99,9 +99,9 @@ export default function MarketCarousel() {
         <div className="market-carousel-item">
           <div className="market-carousel-item-name">
             <img src={'img/icon/7.png'} alt="" />
-            <strong>Monero</strong>
+            <strong>Slash Protocol</strong>
           </div>
-          <h2>229922.06 XMR</h2>
+          <h2>229922.06 SLASH</h2>
           <p>$14,111</p>
           <button className="btn buy">Deposit</button>
           <button className="btn sell">Withdraw</button>
