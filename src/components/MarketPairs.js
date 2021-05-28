@@ -177,7 +177,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> NEO/BTC
+                    <i className="icon ion-md-star"></i> SLASH/BTC
                   </td>
                   <td>0.00340103</td>
                   <td className="red">-1.05%</td>
@@ -365,7 +365,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> NEO/ETH
+                    <i className="icon ion-md-star"></i> SLASH/ETH
                   </td>
                   <td>0.00340103</td>
                   <td className="red">-1.05%</td>
@@ -436,7 +436,7 @@ export default function MarketPairs() {
               </tbody>
             </table>
           </Tab>
-          <Tab eventKey="neo" title="SLASH">
+          <Tab eventKey="SLASH" title="SLASH">
             <table className="table">
               <thead>
                 <tr>
@@ -448,175 +448,175 @@ export default function MarketPairs() {
               <tbody>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> ETH/NEO
+                    <i className="icon ion-md-star"></i> ETH/SLASH
                   </td>
                   <td>0.00350255</td>
                   <td className="red">-6.58%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> SLASH/NEO
+                    <i className="icon ion-md-star"></i> SLASH/SLASH
                   </td>
                   <td>0</td>
                   <td className="green">+0%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XRP/NEO
+                    <i className="icon ion-md-star"></i> XRP/SLASH
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> VET/NEO
+                    <i className="icon ion-md-star"></i> VET/SLASH
                   </td>
                   <td>0.00000103</td>
                   <td className="green">+1.8%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> EOS/NEO
+                    <i className="icon ion-md-star"></i> EOS/SLASH
                   </td>
                   <td>0.00000103</td>
                   <td className="red">-2.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> BTT/NEO
+                    <i className="icon ion-md-star"></i> BTT/SLASH
                   </td>
                   <td>0.00002303</td>
                   <td className="red">-1.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> LTC/NEO
+                    <i className="icon ion-md-star"></i> LTC/SLASH
                   </td>
                   <td>0.03520103</td>
                   <td className="green">+1.5%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> TRX/NEO
+                    <i className="icon ion-md-star"></i> TRX/SLASH
                   </td>
                   <td>0.00330103</td>
                   <td className="red">-3.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> BSV/NEO
+                    <i className="icon ion-md-star"></i> BSV/SLASH
                   </td>
                   <td>0.00300103</td>
                   <td className="green">+2.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> COTI/NEO
+                    <i className="icon ion-md-star"></i> COTI/SLASH
                   </td>
                   <td>0.003500103</td>
                   <td className="green">+2.85%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XYT/NEO
+                    <i className="icon ion-md-star"></i> XYT/SLASH
                   </td>
                   <td>0.00003103</td>
                   <td className="green">+3.55%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> BNB/NEO
+                    <i className="icon ion-md-star"></i> BNB/SLASH
                   </td>
                   <td>0.003500103</td>
                   <td className="red">-2.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XMR/NEO
+                    <i className="icon ion-md-star"></i> XMR/SLASH
                   </td>
                   <td>0.003500103</td>
                   <td className="red">-1.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> TRY/NEO
+                    <i className="icon ion-md-star"></i> TRY/SLASH
                   </td>
                   <td>0.00000123</td>
                   <td className="red">-2.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> ADA/NEO
+                    <i className="icon ion-md-star"></i> ADA/SLASH
                   </td>
                   <td>0.00050103</td>
                   <td className="green">+5.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> NEO/NEO
+                    <i className="icon ion-md-star"></i> SLASH/SLASH
                   </td>
                   <td>0.00340103</td>
                   <td className="red">-1.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XLM/NEO
+                    <i className="icon ion-md-star"></i> XLM/SLASH
                   </td>
                   <td>0.00035103</td>
                   <td className="green">+5.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> ENQ/NEO
+                    <i className="icon ion-md-star"></i> ENQ/SLASH
                   </td>
                   <td>0.00354103</td>
                   <td className="green">+2.02%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> AVA/NEO
+                    <i className="icon ion-md-star"></i> AVA/SLASH
                   </td>
                   <td>0.02535103</td>
                   <td className="green">+3.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> AMB/NEO
+                    <i className="icon ion-md-star"></i> AMB/SLASH
                   </td>
                   <td>0.05335103</td>
                   <td className="green">+1.0%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> MAP/NEO
+                    <i className="icon ion-md-star"></i> MAP/SLASH
                   </td>
                   <td>0.00234103</td>
                   <td className="red">-2.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> GO/NEO
+                    <i className="icon ion-md-star"></i> GO/SLASH
                   </td>
                   <td>0.00354103</td>
                   <td className="red">-6.50%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> KICK/NEO
+                    <i className="icon ion-md-star"></i> KICK/SLASH
                   </td>
                   <td>0.02053103</td>
                   <td className="red">-6.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> DBC/NEO
+                    <i className="icon ion-md-star"></i> DBC/SLASH
                   </td>
                   <td>0.02535103</td>
                   <td className="green">+7.05%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> GGC/NEO
+                    <i className="icon ion-md-star"></i> GGC/SLASH
                   </td>
                   <td>0.00353103</td>
                   <td className="red">-4.05%</td>
