@@ -53,10 +53,10 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> LTC/BTC
+                              <i className="icon ion-md-star"></i> MATIC/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/3.png'} alt="bitcoin" /> LTC
+                              <img src={'img/icon/3.png'} alt="bitcoin" /> MATIC
                             </td>
                             <td>4582.06</td>
                             <td className="green">+2.62%</td>
