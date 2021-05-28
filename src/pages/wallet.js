@@ -382,7 +382,7 @@ export default function wallet() {
                                 <div className="d-flex">
                                   <img src={'img/icon/4.png'} alt="btc" />
                                   <div>
-                                    <h2>KCS</h2>
+                                    <h2>LINK</h2>
                                     <p>ChainLink</p>
                                   </div>
                                 </div>
