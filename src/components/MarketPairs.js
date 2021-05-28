@@ -45,7 +45,7 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XRP/BTC
+                    <i className="icon ion-md-star"></i> SNX/BTC
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-1.55%</td>
