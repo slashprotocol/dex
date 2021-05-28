@@ -313,14 +313,14 @@ export default function wallet() {
                             </Nav.Item>
                             <Nav.Item>
                               <Nav.Link
-                                eventKey="wallet_TRX"
+                                eventKey="wallet_MATIC"
                                 className="d-flex justify-content-between align-items-center"
                               >
                                 <div className="d-flex">
-                                  <img src={'img/icon/6.png'} alt="btc" />
+                                  <img src={'img/icon/3.png'} alt="btc" />
                                   <div>
-                                    <h2>TRX</h2>
-                                    <p>Tron</p>
+                                    <h2>MATIC</h2>
+                                    <p>Polygon</p>
                                   </div>
                                 </div>
                                 <div>
@@ -361,7 +361,7 @@ export default function wallet() {
                                 <div className="d-flex">
                                   <img src={'img/icon/7.png'} alt="btc" />
                                   <div>
-                                    <h2>XMR</h2>
+                                    <h2>SLASH</h2>
                                     <p>Slash Protocol</p>
                                   </div>
                                 </div>
