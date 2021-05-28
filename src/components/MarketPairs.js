@@ -455,21 +455,21 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> SLASH/SLASH
+                    <i className="icon ion-md-star"></i> UNI/SLASH
                   </td>
                   <td>0</td>
                   <td className="green">+0%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XRP/SLASH
+                    <i className="icon ion-md-star"></i> MKR/SLASH
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> VET/SLASH
+                    <i className="icon ion-md-star"></i> SNX/SLASH
                   </td>
                   <td>0.00000103</td>
                   <td className="green">+1.8%</td>
