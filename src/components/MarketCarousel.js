@@ -49,9 +49,9 @@ export default function MarketCarousel() {
         <div className="market-carousel-item">
           <div className="market-carousel-item-name">
             <img src={'img/icon/16.png'} alt="" />
-            <strong>MultiVAC</strong>
+            <strong>Uniswap</strong>
           </div>
-          <h2>626984.06 MTV</h2>
+          <h2>626984.06 UNI</h2>
           <p>$11,020</p>
           <button className="btn buy">Deposit</button>
           <button className="btn sell">Withdraw</button>
