@@ -43,7 +43,7 @@ export default function MarketsList() {
                               <i className="icon ion-md-star"></i> UNI/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/2.png'} alt="vid" /> EOS
+                              <img src={'img/icon/3.png'} alt="vid" /> UNI
                             </td>
                             <td>6984.06</td>
                             <td className="red">-1.65%</td>
@@ -56,7 +56,7 @@ export default function MarketsList() {
                               <i className="icon ion-md-star"></i> MATIC/BTC
                             </td>
                             <td>
-                              <img src={'img/icon/3.png'} alt="bitcoin" /> MATIC
+                              <img src={'img/icon/4.png'} alt="bitcoin" /> MATIC
                             </td>
                             <td>4582.06</td>
                             <td className="green">+2.62%</td>
