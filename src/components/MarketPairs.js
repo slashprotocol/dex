@@ -436,7 +436,7 @@ export default function MarketPairs() {
               </tbody>
             </table>
           </Tab>
-          <Tab eventKey="neo" title="NEO">
+          <Tab eventKey="neo" title="SLASH">
             <table className="table">
               <thead>
                 <tr>
