@@ -33,12 +33,12 @@ export default function MarketPairs() {
                   <td>
                     <i className="icon ion-md-star"></i> ETH/BTC
                   </td>
-                  <td>0.00020255</td>
+                  <td>0.0613525</td>
                   <td className="red">-2.58%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> KCS/BTC
+                    <i className="icon ion-md-star"></i> UNI/BTC
                   </td>
                   <td>0.00013192</td>
                   <td className="green">+5.6%</td>
