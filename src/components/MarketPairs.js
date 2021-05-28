@@ -267,14 +267,14 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> KCS/ETH
+                    <i className="icon ion-md-star"></i> UNI/ETH
                   </td>
                   <td>0.00013192</td>
                   <td className="red">-0.6%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XRP/ETH
+                    <i className="icon ion-md-star"></i> SNX/ETH
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
