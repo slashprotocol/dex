@@ -643,28 +643,28 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> KCS/USDT
+                    <i className="icon ion-md-star"></i> SLASH/USDT
                   </td>
                   <td>0.00013192</td>
                   <td className="green">+6.6%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XRP/USDT
+                    <i className="icon ion-md-star"></i> UNI/USDT
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> VET/USDT
+                    <i className="icon ion-md-star"></i> LINK/USDT
                   </td>
                   <td>0.00000103</td>
                   <td className="green">+1.8%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> EOS/USDT
+                    <i className="icon ion-md-star"></i> MKR/USDT
                   </td>
                   <td>0.00000103</td>
                   <td className="red">-2.05%</td>
@@ -831,21 +831,21 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> KCS/DAI
+                    <i className="icon ion-md-star"></i> SLASH/DAI
                   </td>
                   <td>0.00013192</td>
                   <td className="green">+0.6%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> XRP/DAI
+                    <i className="icon ion-md-star"></i> LINK/DAI
                   </td>
                   <td>0.00002996</td>
                   <td className="red">-0.55%</td>
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> VET/DAI
+                    <i className="icon ion-md-star"></i> MKR/DAI
                   </td>
                   <td>0.00000103</td>
                   <td className="green">+1.8%</td>
