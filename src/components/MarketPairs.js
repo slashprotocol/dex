@@ -52,10 +52,10 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> VET/BTC
+                    <i className="icon ion-md-star"></i> SLASH/BTC
                   </td>
-                  <td>0.00000103</td>
-                  <td className="green">+1.8%</td>
+                  <td>0</td>
+                  <td className="green">0%</td>
                 </tr>
               </tbody>
             </table>
@@ -288,10 +288,10 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> EOS/ETH
+                    <i className="icon ion-md-star"></i> SLASH/ETH
                   </td>
-                  <td>0.00000103</td>
-                  <td className="red">-2.05%</td>
+                  <td>0</td>
+                  <td className="red">0%</td>
                 </tr>
                 <tr>
                   <td>
@@ -455,10 +455,10 @@ export default function MarketPairs() {
                 </tr>
                 <tr>
                   <td>
-                    <i className="icon ion-md-star"></i> KCS/NEO
+                    <i className="icon ion-md-star"></i> SLASH/NEO
                   </td>
-                  <td>0.00013192</td>
-                  <td className="green">+0.6%</td>
+                  <td>0</td>
+                  <td className="green">+0%</td>
                 </tr>
                 <tr>
                   <td>
