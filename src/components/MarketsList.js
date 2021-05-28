@@ -40,7 +40,7 @@ export default function MarketsList() {
                           </tr>
                           <tr data-href="exchange-light.html">
                             <td>
-                              <i className="icon ion-md-star"></i> EOS/BTC
+                              <i className="icon ion-md-star"></i> UNI/BTC
                             </td>
                             <td>
                               <img src={'img/icon/2.png'} alt="vid" /> EOS
