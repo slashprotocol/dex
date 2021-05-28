@@ -32,10 +32,9 @@ export default function MarketNews() {
           </li>
           <li>
             <Link to="/news-details">
-              <strong>KCS Pay Fees Feature is Coming Soon</strong>
-              To accelerate the ecosystem construction of KuCoin Share (KCS) and
-              promote the implementation of the KCS application.
-              <span>2019-12-04 20:22</span>
+              <strong>Uniswap V3</strong>
+             Uniswap v3 flips v2 on volume — and both versions flip Bitcoin on fee revenue
+              <span>2021-05-24 20:22</span>
             </Link>
           </li>
           <li>
